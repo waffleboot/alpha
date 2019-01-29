@@ -1,5 +1,5 @@
 package alpha
 
 func Name() string {
-	return "alpha v2"
+	return "alpha v3"
 }
